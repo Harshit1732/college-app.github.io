@@ -1,0 +1,39 @@
+.navbar{
+    background-color: rgb(26,57,99);
+    
+}
+
+.homepage{
+    background-image: url(./img/bac.jpg);
+    height: 90vh;
+    background-repeat: no-repeat;
+    background-size: 240vh;
+    
+    
+    position: relative;
+}
+.nav-link{
+    color: white;
+}
+.logo-image{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+    margin-left: 40px;
+}
+#navmain{
+    margin-left: 100px;
+}
+.navitem{
+    padding:0px 200px ;
+}
+
+footer {
+    background: rgb(26,57,99) ;
+  }
+  .d-flex {
+    display: flex!important;
+    flex-direction: column;
+}
